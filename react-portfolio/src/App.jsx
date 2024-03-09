@@ -13,7 +13,13 @@ function App() {
       <Nav />
       <main className="mx-3">
         <Outlet />
+        
       </main>
+      <footer class="site-footer">
+          <div class="footer-container">
+            <p>Created By Bethany Colon</p>
+          </div>
+      </footer>
     </>
   );
 }
