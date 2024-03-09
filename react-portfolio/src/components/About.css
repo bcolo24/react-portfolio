@@ -1,0 +1,39 @@
+.sub-header{
+    text-align: center;
+}
+
+.small-header{
+
+}
+
+.back-end-text{
+    margin-top: 5%;
+    font-size: 1.75rem;
+    
+}
+.front-end-icons{
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 25px;
+    text-align: center;
+}
+.back-end-icons{
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 25px;
+    text-align: center;
+}
+.skills-text{
+    margin-left:25%;
+    margin-right:25%;
+    font-size: 20px;;
+}
+.resume-text{
+    font-size: 20px;
+    color:black;
+    
+}

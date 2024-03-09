@@ -6,26 +6,6 @@ body{
     background-color: #afbcc0;
 }
 
-.myPic{
-   width: 350px;
-   height: 100%;
-   border-radius: 5%;
-   float: right;
-   margin:5%;
-   margin-top: 0;
-   box-shadow: 10px 10px 15px 10px #8d8d8d97;
-}
-
-p{
-    text-align: left;
-    margin: 5%;
-    margin-top: 3%;
-    font-family: "Poppins", sans-serif;
-    font-weight: 400;
-    font-style: normal;  
-    font-size: 21px;
-}
-
 h1{
     font-size: 70px;
     color: white;
@@ -36,6 +16,39 @@ h1{
     text-shadow: 2px 3px #3c3535;
     margin-bottom: 0;
 }
+
+.myPic{
+   width: 350px;
+   height: 100%;
+   border-radius: 5%;
+   float: right;
+   margin:5%;
+   margin-top: 0;
+   box-shadow: 10px 10px 15px 10px #8d8d8d97;
+}
+
+.home-header{
+    font-size: 70px;
+    color: white;
+    text-align: left;
+    margin-left: 5%;
+    font-family: "Teko", sans-serif;
+    font-weight: 600;
+    text-shadow: 2px 3px #3c3535;
+    margin-bottom: 0px;
+}
+
+.body-text{
+    text-align: left;
+    margin: 5%;
+    margin-top: 3%;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;  
+    font-size: 21px;
+}
+
+
 
 .fade-in {
     opacity: 0;

@@ -16,7 +16,7 @@ export default function Home() {
 
   return (
     <div>
-      <h1 className='fade-in'>
+      <h1 className='home-header fade-in'>
       <TypeAnimation
        preRenderFirstString={true}
         sequence={[
@@ -33,7 +33,7 @@ export default function Home() {
         repeat={2}
         style={{ fontSize: '1em', display: 'inline-block' }}/></h1>
         <img src={Image} alt="Picture of Bethany Colon" className='myPic fade-in' />
-      <p className='fade-in'>
+      <p className='body-text fade-in'>
         Welcome to my personal portfolio website! My name is Bethany Colon, and I'm a passionate web developer with a love for
         creating meaningful and engaging projects. This website serves as a showcase of my
         work, skills, and experiences. Feel free to explore and learn more about me and
