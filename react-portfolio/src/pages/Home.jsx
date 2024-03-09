@@ -32,7 +32,7 @@ export default function Home() {
         cursor={true}
         repeat={2}
         style={{ fontSize: '1em', display: 'inline-block' }}/></h1>
-        <img src={Image} alt="Picture of Bethany Colon" className='fade-in' />
+        <img src={Image} alt="Picture of Bethany Colon" className='myPic fade-in' />
       <p className='fade-in'>
         Welcome to my personal portfolio website! My name is Bethany Colon, and I'm a passionate web developer with a love for
         creating meaningful and engaging projects. This website serves as a showcase of my

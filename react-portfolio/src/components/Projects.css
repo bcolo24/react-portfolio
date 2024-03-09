@@ -1,0 +1,24 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
+
+.card-design{
+    border: 3px solid black !important;
+}
+
+.expanded-text{
+    text-align: left;
+}
+.expanded-title{
+    text-align: left;
+    font-weight: 600 !important;
+    margin-bottom: 8px !important;
+}
+.card{
+    background-color: #e9eded !important;
+    margin: 2%;
+    
+}
