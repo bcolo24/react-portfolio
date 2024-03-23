@@ -20,7 +20,7 @@ export default function About() {
           Here are the skills that I have gained through hands-on experience and continuous education! 
         </p> 
         <p className='resume-text'>
-          <a href='https://docs.google.com/document/d/1oYP5Jq8_yLs6Zfc-3rC6cmJ-zsm8EsFtWom5j68EFHM/edit?usp=sharing'>Click Here to View My Resume</a>
+          <a href='https://docs.google.com/document/d/1hHMwUD4bqWVDYuGGkKu8tJSMlvS0Dnhx3fbokM1-2A0/edit?usp=sharing'>Click Here to View My Resume</a>
         </p> 
         <h3 className='small-header'>Front-End</h3>
         <div className='front-end-icons'>
